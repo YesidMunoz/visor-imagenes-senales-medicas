@@ -4,8 +4,7 @@ Aplicación de escritorio en Python para cargar, visualizar y procesar imágenes
 
 Proyecto académico de Ingeniería Biomédica, Universidad de Antioquia.
 
-![Pantalla de inicio](capturas/login.png)
-
+![Visor](logo1.jpg)
 ## Funcionalidades
 
 ### Inicio de sesión por roles
@@ -18,7 +17,7 @@ Proyecto académico de Ingeniería Biomédica, Universidad de Antioquia.
 - Consulta de metadatos principales del estudio (modalidad, fabricante, espesor de corte, dimensiones).
 - Conversión de DICOM a **NIfTI** (.nii.gz) y carga de archivos NIfTI.
 
-![Visualizador de cortes](capturas/cortes.png)
+![Visualizador de cortes](cell.jpg)
 
 ### Imágenes convencionales
 - Cambio de espacio de color: RGB, escala de grises, HSV y LAB.
@@ -28,7 +27,7 @@ Proyecto académico de Ingeniería Biomédica, Universidad de Antioquia.
 - Filtro bilateral para reducir ruido conservando bordes.
 - **Conteo automático de células** por detección de contornos.
 
-![Conteo de células](capturas/celulas.png)
+
 
 ### Señales biomédicas (.mat)
 - Exploración de las variables del archivo y su forma (canales × muestras × ensayos).
@@ -78,7 +77,7 @@ Proyecto académico de Ingeniería Biomédica, Universidad de Antioquia.
    python MAIN.PY
    ```
 
-> Los archivos DICOM de la carpeta `DICOM` son estudios de acceso público obtenidos de [nombre y enlace de la fuente].
+> Los archivos DICOM de la carpeta `DICOM` son estudios de acceso público 
 
 ## Autor
 
