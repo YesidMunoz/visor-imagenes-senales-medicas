@@ -1,0 +1,9 @@
+PyQt5
+numpy
+scipy
+pandas
+matplotlib
+opencv-python
+pydicom
+nibabel
+mysql-connector-python
